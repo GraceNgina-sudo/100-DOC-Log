@@ -1,0 +1,19 @@
+## What i covered on day two[14TH May 2025]
+-Internet
+-What is HTTP
+-HTTP headers
+
+## Summary:
+-The internet is a global network of interconnected computers that communicate using standard protocols primarily, TCP/IP.
+-Client reguests a webpage, the client device sends a data packet through the internet service provider, to a DNS server(Domain name system) which translates the webpage domain name into an IP address. The packet i sthen routed across various networks to the destination server, which processes the request  and sends back the response.
+-HTTP-Hyper text transfer protocal(Used for transmitting hyper text via the world wide web)
+-It defines how messages are formatted and transmitted and how web servers and browsers to various commands.
+-HTTP usually operates a request-response model.
+-Http is stateless but not seamless
+-HTTP forms the foundation for data communication on the web and is typically used with secure HTTP (HTTPS) for encrypted communication.
+-HTTP headers let the client and server pass aditional information with a message in a request or response.
+
+## Next topics
+-API definition
+-API protocols
+-REST APIs
