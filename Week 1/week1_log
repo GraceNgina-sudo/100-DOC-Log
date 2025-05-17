@@ -1,0 +1,47 @@
+## Day 1 [14th May 2025]
+### Topics Covered:
+-Attended the initial meeting to get insight on what was expected from the 100DOC.
+
+## Day 2 [15th May 2025]
+### Topics covered:
+-Internet
+-What is HTTP
+### Summary:
+-The internet is a global network of interconnected computers that communicate using standard protocols primarily; TCP/IP
+-When you request a web page, your device sends a datapacket through your internet service provider to a DNS server that translates the websites domain name to an IP address.
+-The packet is then routed across various networks to the destination server, which processes the request and sends back the response.
+-HTTP(Hypertext transfer protocol)is used for transmitting hyper text via world wide web.
+
+## Day 3 [16th May 2025]
+### Topics covered:
+-Domain name
+-Hosting
+-Browsers
+-API design
+-How do APIs work?
+-API styles
+-REST API
+### Summary
+-A domain name is used to Identify a specific location on the internet, making it easier to access websites and online services.
+-Hosting is the providing a server space and resources for storing and delivering website files and applications to users over the internet.
+-Browsers are software applications that enable users to access, retrieve, and navigate information on the world wide web.
+-API(Application programming interface) is a set of rules and protocols that allow communication between different software applications and interaction.
+-APIs work in that the client sends a request and the server sends a response 
+-There are different API styles depending on why and when.(SOAP, RPC, Websocket, REST)
+-REST API (Represantational state transfer) defines a set of functions (HTTP methods) that clients use to access server data.
+
+## Day 4 [17th May 2025]
+### Topics covered:
+-Brief summary on API design in simpler terms
+### Summary:
+-API is a set of rules that lets different programs talk to each other
+-HTTP methods are action words(GET, POST, PUT, DELETE, PATCH)
+-HTTP status code are responses(200, 404, 500)
+-HTTP caching (Remembering answers to common comands)
+-API Styles:
+-REST-Like ordering food-ask what you want you get it
+-GraphQL-Building your own meal
+-Websockets-Like a phone call
+-SOAP-Formal tea party
+-gRPC-fast and efficient like walkie talkies
+
