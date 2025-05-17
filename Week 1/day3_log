@@ -1,0 +1,14 @@
+## Day 3[16th May 2025]
+### Topics covered:
+-Domain name
+-Browsers
+-API design 
+-API styples
+-REST API 
+## Summary:
+-A domain name is used to identify a specific location on the internet, making it easier to access websites and online services.
+-Browsers are software applications that enable users to access, retrieve, and navigate information on the world wide web
+-API(Application programming interface)is a set of defined rules and protocols that allow different software applications to communicate and interact with each other.
+-REST APIs defines a set of functions(HTTP methods) that clients use to access server data.
+## Challenges:
+-Understanding the different types of API styles.
